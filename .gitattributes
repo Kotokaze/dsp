@@ -1,3 +1,4 @@
 music/* filter=lfs diff=lfs merge=lfs -text
 msound.mexmaci64 filter=lfs diff=lfs merge=lfs -text
 msound.mexw64 filter=lfs diff=lfs merge=lfs -text
+dsp.mlapp filter=lfs diff=lfs merge=lfs -text
